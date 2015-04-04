@@ -1,6 +1,6 @@
 {
   "name": "rdf-prefixes",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "RDF prefixes",
   "author": "Kengo Nakatsuka <kengo.nakatsuka@gmail.com>",
   "bugs": {
