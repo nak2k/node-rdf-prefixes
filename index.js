@@ -1,10 +1,13 @@
 module.exports = {
+  as: 'http://www.w3.org/ns/activitystreams#',
   dc: 'http://purl.org/dc/elements/1.1/',
   dcterms: 'http://purl.org/dc/terms/',
+  dctypes: 'http://purl.org/dc/dcmitype/',
   foaf: 'http://xmlns.com/foaf/0.1/',
   ldp: 'http://www.w3.org/ns/ldp#',
   oa: 'http://www.w3.org/ns/oa#',
   owl: 'http://www.w3.org/2002/07/owl#',
+  prov: 'http://www.w3.org/ns/prov#',
   rdf: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#',
   rdfs: 'http://www.w3.org/2000/01/rdf-schema#',
   rr: 'http://www.w3.org/ns/r2rml#',
